@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/Animation/LJSAnimation.meta
+Assets/Assets/LJSItemAsset/Card Asset.meta
+Assets/Prefabs/achPrefabs.meta
+Assets/Scenes/achScene/E_Bullet.prefab.meta
+Assets/Scripts/Shader/TVNoise/TVNoise.mat
